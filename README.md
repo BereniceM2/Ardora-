@@ -1,2 +1,2 @@
 # Ardora-
-OVA , herraientas tic para la comunicación. 
+OVA , herramieentas tic para la comunicación. 
